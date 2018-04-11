@@ -1,0 +1,14 @@
+{
+  "name": "bootstrap-nodejs",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.1.0",
+    "connect": "^3.6.6",
+    "jquery": "^3.3.1",
+    "serve-static": "^1.13.2"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
